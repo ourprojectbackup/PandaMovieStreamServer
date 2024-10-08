@@ -1,0 +1,63 @@
+[08/10/2024 21:14:46][bot][INFO] -> Web server is started!
+[08/10/2024 21:14:46][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:15:17][bot][INFO] -> Web server is started!
+[08/10/2024 21:15:17][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:16:15][uvicorn.access][INFO] -> 127.0.0.1:60068 - "GET / HTTP/1.1" 302
+[08/10/2024 21:17:15][uvicorn.access][INFO] -> 127.0.0.1:60069 - "GET /stream/4529?code=15c36c9573a6de5f HTTP/1.1" 200
+[08/10/2024 21:17:18][uvicorn.access][INFO] -> 127.0.0.1:60069 - "GET /favicon.ico HTTP/1.1" 404
+[08/10/2024 21:17:40][uvicorn.access][INFO] -> 127.0.0.1:60142 - "GET /stream/4529?code=15c36c9573a6de5f HTTP/1.1" 200
+[08/10/2024 21:18:27][bot][INFO] -> Web server is started!
+[08/10/2024 21:18:27][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:18:45][uvicorn.access][INFO] -> 127.0.0.1:60199 - "GET / HTTP/1.1" 302
+[08/10/2024 21:19:07][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /stream/4529?code=15c36c9573a6de5f HTTP/1.1" 200
+[08/10/2024 21:19:07][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:19:11][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:19:16][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:19:17][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:19:19][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:19:21][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:19:24][uvicorn.access][INFO] -> 127.0.0.1:60211 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:19:33][uvicorn.access][INFO] -> 127.0.0.1:60303 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:21:22][bot][INFO] -> Web server is started!
+[08/10/2024 21:21:22][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:21:25][uvicorn.access][INFO] -> 127.0.0.1:60352 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:21:31][uvicorn.access][INFO] -> 127.0.0.1:60353 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:22:25][bot][INFO] -> Web server is started!
+[08/10/2024 21:22:25][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:22:28][uvicorn.access][INFO] -> 127.0.0.1:60367 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:22:37][uvicorn.access][INFO] -> 127.0.0.1:60366 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:23:26][bot][INFO] -> Web server is started!
+[08/10/2024 21:23:26][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:23:26][bot][INFO] -> 4529
+[08/10/2024 21:23:26][uvicorn.access][INFO] -> 127.0.0.1:60394 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:24:26][bot][INFO] -> Web server is started!
+[08/10/2024 21:24:26][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:24:27][bot][INFO] -> 4529
+[08/10/2024 21:24:27][bot][ERROR] -> An error occurred while fetching the message: Cannot send requests while disconnected
+[08/10/2024 21:24:27][uvicorn.access][INFO] -> 127.0.0.1:60431 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:27:10][bot][INFO] -> Web server is started!
+[08/10/2024 21:27:10][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:27:32][bot][INFO] -> 4529
+[08/10/2024 21:27:32][bot][ERROR] -> An error occurred while fetching the message: The asyncio event loop must not change after connection (see the FAQ for details)
+[08/10/2024 21:27:32][uvicorn.access][INFO] -> 127.0.0.1:60499 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:27:33][bot][INFO] -> 4529
+[08/10/2024 21:27:33][bot][ERROR] -> An error occurred while fetching the message: The asyncio event loop must not change after connection (see the FAQ for details)
+[08/10/2024 21:27:33][uvicorn.access][INFO] -> 127.0.0.1:60499 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:27:33][bot][INFO] -> 4529
+[08/10/2024 21:27:33][bot][ERROR] -> An error occurred while fetching the message: The asyncio event loop must not change after connection (see the FAQ for details)
+[08/10/2024 21:27:33][uvicorn.access][INFO] -> 127.0.0.1:60499 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:27:33][bot][INFO] -> 4529
+[08/10/2024 21:27:33][bot][ERROR] -> An error occurred while fetching the message: The asyncio event loop must not change after connection (see the FAQ for details)
+[08/10/2024 21:27:33][uvicorn.access][INFO] -> 127.0.0.1:60499 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:27:35][bot][INFO] -> 4529
+[08/10/2024 21:27:35][bot][ERROR] -> An error occurred while fetching the message: The asyncio event loop must not change after connection (see the FAQ for details)
+[08/10/2024 21:27:35][uvicorn.access][INFO] -> 127.0.0.1:60499 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 404
+[08/10/2024 21:28:51][bot][INFO] -> Web server is started!
+[08/10/2024 21:28:51][bot][INFO] -> Server running on 0.0.0.0:8080
+[08/10/2024 21:28:59][bot][INFO] -> 4529
+[08/10/2024 21:28:59][uvicorn.access][INFO] -> 127.0.0.1:60533 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 200
+[08/10/2024 21:29:21][uvicorn.access][INFO] -> 127.0.0.1:60534 - "GET /stream/4529?code=15c36c9573a6de5f HTTP/1.1" 200
+[08/10/2024 21:29:21][bot][INFO] -> 4529
+[08/10/2024 21:29:21][uvicorn.access][INFO] -> 127.0.0.1:60534 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 206
+[08/10/2024 21:30:49][bot][INFO] -> 4529
+[08/10/2024 21:30:49][uvicorn.access][INFO] -> 127.0.0.1:60554 - "GET /dl/4529?code=15c36c9573a6de5f HTTP/1.1" 206
