@@ -17,9 +17,9 @@ class Telegram:
     BOT_USERNAME = "YourBotUsername"  # Set your bot username
 
 class Server:
-    BASE_URL = env.get("BASE_URL", "http://127.0.0.1:8080")
+    BASE_URL = env.get("BASE_URL", "http://164.92.130.158:7000")
     BIND_ADDRESS = env.get("BIND_ADDRESS", "0.0.0.0")
-    PORT = int(env.get("PORT", 8080))
+    PORT = int(env.get("PORT", 7000))
 
 # Logging Configuration
 basicConfig(level='INFO')
